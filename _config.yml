@@ -1,0 +1,14 @@
+layout_spectrum: 0.11597077990882099
+typography_spectrum: 0.8817835988011211
+color:
+  brandStrength: 0.4333942795637995
+  lightness: 0.08627734472975135
+  saturation: 0.6249155418481678
+  rhythmicContrast: 0.12304551363922656
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: www.ffwd.org
